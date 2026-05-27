@@ -40,6 +40,16 @@ const myLocations = [
     location: [52.507541, 13.39032],
     description: 'The most famous wall in Berlin',
   },
+  {
+    name: 'Tempelhofer Feld',
+    location: [52.472246, 13.396711],
+    description: 'The for airport that became a wonderful park',
+  },
+  {
+    name: 'Soviet War Memorial Treptow',
+    location: [52.486383, 13.4714],
+    description: 'The monumental tribute to the soviet army in Treptower park',
+  },
 ];
 // Add markers to the map with a popup
 myLocations.forEach((location) => {
