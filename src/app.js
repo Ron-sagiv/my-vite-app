@@ -43,7 +43,7 @@ const myLocations = [
   {
     name: 'Tempelhofer Feld',
     location: [52.472246, 13.396711],
-    description: 'The for airport that became a wonderful park',
+    description: 'The former airport that became a wonderful park',
   },
   {
     name: 'Soviet War Memorial Treptow',
